@@ -1,0 +1,169 @@
+ul{
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+.header{
+    background-color: #1f2937;
+    display: flex;
+    align-items: center;
+    margin-bottom: auto;
+    padding: 10px 200px;
+}
+.links{
+    margin-left: auto;
+}
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: "Roboto";
+}
+.header-logo{
+    font-size: 24px;
+    color: #f9faf8;
+}
+.sign-up-part{
+    display: flex;
+    gap: 16px;
+    flex-direction: column;
+    width: 400px;
+    
+
+}
+.secondary-text{
+    color: #e5e7eb;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+.main-text{
+    font-size: 48px;
+    color:#f9faf8;
+    margin: 0;
+    padding: 0;
+}
+.part1{
+    display: flex;
+    background-color: #1f2937;
+    padding: 10px 200px;
+}
+.button1{
+    background-color: #3882f6;
+    color:#f9faf8 ;
+    border: 0;
+    width: 90px;
+    padding: 8px;
+    border-radius: 10px;
+
+}
+.main-img{ 
+    width: 600px;
+    height: 400px;
+    margin-left: auto;
+}
+.boxers{
+    display: flex;
+    gap: 50px;
+}
+img{
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+
+}
+.part2{
+    padding: 50px 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.boxer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.favorite-text{
+    font-size: 36px;
+    color:  #1f2937;
+    font-weight: 900;
+}
+.quote-text{
+    font-size: 36px;
+    color: #1f2937;
+    font-style: light italic;
+}
+.quote{
+    background-color: #e5e7eb;
+    padding: 50px 300px;
+}
+.author{
+    font-size: 26px;
+    color: #1f2937;
+    font-weight: bold;
+    text-align: right;
+}
+.part3-main{
+    background-color: #3882f6;
+    border-radius: 10px;
+    display: flex;
+    padding: 20px 80px;
+    align-items: center;
+}
+.part3{
+    padding: 50px 250px;
+
+}
+.call{
+    font-size: 24px;
+    color: #f9faf8;
+    margin: 0;
+    padding: 0;
+}
+.call-to-action{
+    color: #e5e7eb;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.call-text{
+    color: #e5e7eb;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+.button2{
+    background-color: #3882f6;
+    color:#f9faf8 ;
+    width: 90px;
+    height: 40px;
+    padding: 8px;
+    border-radius: 10px;
+    border-color: #f9faf8;
+    margin-left: auto;
+
+}
+.footer{
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 40px;
+}
+.footer-text{
+    color: #e5e7eb;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
